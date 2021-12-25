@@ -1,1 +1,1 @@
-# DankMemerCoinGrindFarmer
+# DankMemerAutoTypingCoinGrindFarmer
